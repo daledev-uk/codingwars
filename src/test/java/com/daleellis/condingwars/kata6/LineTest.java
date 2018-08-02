@@ -1,4 +1,4 @@
-package com.daleellis.condingwars;
+package com.daleellis.condingwars.kata6;
 
 
 import org.junit.jupiter.api.Test;

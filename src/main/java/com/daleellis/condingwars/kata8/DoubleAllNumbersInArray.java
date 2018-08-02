@@ -1,4 +1,4 @@
-package com.daleellis.condingwars;
+package com.daleellis.condingwars.kata8;
 
 import java.util.Arrays;
 

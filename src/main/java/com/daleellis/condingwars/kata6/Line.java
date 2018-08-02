@@ -1,4 +1,4 @@
-package com.daleellis.condingwars;
+package com.daleellis.condingwars.kata6;
 
 /**
  * The new "Avengers" movie has just been released! There are a lot of people at the cinema box office standing in a huge line.

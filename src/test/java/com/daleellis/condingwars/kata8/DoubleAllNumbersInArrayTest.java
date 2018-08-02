@@ -1,5 +1,6 @@
-package com.daleellis.condingwars;
+package com.daleellis.condingwars.kata8;
 
+import com.daleellis.condingwars.kata8.DoubleAllNumbersInArray;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
