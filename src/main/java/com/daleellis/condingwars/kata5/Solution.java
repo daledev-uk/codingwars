@@ -3,8 +3,6 @@ package com.daleellis.condingwars.kata5;
 import java.math.BigInteger;
 
 /**
- * https://www.codewars.com/kata/number-of-trailing-zeros-of-n
- *
  * Write a program that will calculate the number of trailing zeros in a factorial of a given number.
  * <p>
  * N! = 1 * 2 * 3 * ... * N
@@ -14,6 +12,7 @@ import java.math.BigInteger;
  * For more info, see: http://mathworld.wolfram.com/Factorial.html
  *
  * @author dale.ellis
+ * @see https://www.codewars.com/kata/number-of-trailing-zeros-of-n
  * @since 17/08/2018
  */
 public class Solution {
